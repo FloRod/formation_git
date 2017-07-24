@@ -1,3 +1,4 @@
 C'est le dossier créé dans la branche homepage
 On a résolu le conflit
 On ferra du HTML un peu plus tard
+ajout d'une ligne
