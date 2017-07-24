@@ -3,3 +3,4 @@ On a résolu le conflit
 Résolution du deuxieme conflit
 On ferra du HTML un peu plus tard
 ajout d'une ligne
+Et on continue avec le rebase !
