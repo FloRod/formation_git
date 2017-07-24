@@ -1,2 +1,3 @@
 C'est le dossier créé dans la branche homepage
+En avant pour les conflits !
 On ferra du HTML un peu plus tard
