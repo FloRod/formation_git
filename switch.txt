@@ -1,1 +1,2 @@
 C'est le dossier créé dans la branche homepage
+On ferra du HTML un peu plus tard
