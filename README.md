@@ -1,6 +1,6 @@
 ﻿﻿# formation_git
   
-  This project is made to learn what Git and GitHub work. **There are nothing to see !**
+  This project is made to learn what Git and GitHub work. **There is nothing to see !**
   
   ## First Objective
 
