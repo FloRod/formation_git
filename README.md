@@ -13,7 +13,7 @@ To learn what Git works :
 6. git fletch
 7. git push
 8. And more other things ! 
-![logo]https://git-for-windows.github.io/img/git_logo.png
+![logo](https://git-for-windows.github.io/img/git_logo.png)
 
   ## Second Objective
 
