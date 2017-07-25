@@ -4,7 +4,7 @@
   
   ## First Objective
 
-To learn what Git works :
+To learn what Git works : [documentation](https://guides.github.com/)
 1. git init
 2. git add
 3. git commit
@@ -12,7 +12,8 @@ To learn what Git works :
 5. git branch
 6. git fletch
 7. git push
-8. And more other things ! 
+8. And more other things !
+
 ![logo](https://git-for-windows.github.io/img/git_logo.png)
 
   ## Second Objective
